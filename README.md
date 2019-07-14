@@ -14,7 +14,7 @@ python make_query.py
 ```
 # Результат
 
-Результато является запрос
+Результатом является запрос
 
 ![result](https://github.com/romanyakovlev/sql_interview_test/blob/master/result.jpg)
 
