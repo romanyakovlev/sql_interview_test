@@ -12,3 +12,12 @@ python insert_values_into_db.py
 ```sh
 python make_query.py
 ```
+# Результат
+
+Результато является запрос
+
+![result](https://github.com/romanyakovlev/sql_interview_test/blob/master/result.jpg)
+
+а также результат запроса 
+
+![result_2](https://github.com/romanyakovlev/sql_interview_test/blob/master/result_2.jpg)
